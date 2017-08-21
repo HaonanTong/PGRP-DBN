@@ -40,6 +40,7 @@ discrete_temp_data = zeros(n_genes,T);
     T_discrete_temp_data = array2table(discrete_temp_data,'RowNames',agis,'VariableNames',var);
     [pathstr,name,ext] = fileparts(csv); 
 
+    mkdir(sprintf('%s/Dscrtz/',pathstr));
     writetable(T_discrete_temp_data,sprintf('%s/Dscrtz/%s-Dscrtz%s',pathstr,name,ext)...
         ,'WriteRowNames',true,'WriteVariableNames',true);
 end

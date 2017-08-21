@@ -26,10 +26,11 @@ function [ Table_interp ] = f_interp( csv )
 %         strcat('T',num2strcell(T_new,'%2.2f')));
 %     
     Table_interp = array2table(Matrix_interp,'RowNames',agis,'VariableNames',...
-        strcat('T',num2strcell(1:length(T_new),'%d')));
+        strcat('IT',num2strcell(1:length(T_new),'%d')));
     
     [pathstr,name,ext] = fileparts(csv); 
 
+    mkdir(sprintf('%s/Interp/',pathstr));
     writetable(Table_interp,sprintf('%s/Interp/%s-Interp%s',pathstr,name,ext)...
         ,'WriteRowNames',true,'WriteVariableNames',true);
 end

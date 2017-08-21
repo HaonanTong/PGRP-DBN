@@ -1,5 +1,6 @@
 function [ topology, BDeu_Memory ] = f_getTopology( ADM, n_levels, rmax, ESS )
 % topology is a r by tp matrix, where r-1 regulators regulates rth gene
+fprintf('Estimating topology based on BDeu score with equivalent sample size %G\n', ESS);
 [n,~] = size(ADM);
 nPReg = n - 1;
 

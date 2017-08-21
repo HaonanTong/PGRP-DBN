@@ -1,6 +1,5 @@
 function [ BDeu ] = f_calculateScore( ScoreMatrix, n_levels, ESS )
 % topology is determined by ScoreMatrix
-fprintf('Equivalent Sample size: %.4f\n',ESS);
 [n,~]=size(ScoreMatrix);
 nPa = n-1;% # of parent in the topology
 
