@@ -83,7 +83,6 @@ for i = 1 : TF_at4.ngenes % for each potential target
     target{i}.PoPaGList = PoPaGList;
 end
 
-% save('Analysis_Stage12_TFs_UP.mat');
 %% Analysis
 
 % target{27} and target{29} has one parent others have 2 parents.
@@ -94,10 +93,13 @@ for i = 1 : TF_at4.ngenes % for each potential target
 end
 
 BDeu_max = max(BDeu);
-indx = BDeu == BDeu_max; % corresponds to strongest causal relationship;
-
-DBN_target = target(indx);
-fprintf('Totally have %d sub-structure\n',length(DBN));
+indx = find(abs(BDeu-BDeu_max) < .1 ); % corresponds to strongest causal relationship;
+nl = length(indx);
+DBN_target = cell(1,nl);
+for i = 1 : nl
+    DBN_target{1,i} = target{1,indx(i)};
+end
+fprintf('Totally have %d sub-structure\n',length(DBN_target));
 
 for i = 1 : length(DBN_target)
    fprintf('-----------------------\n');
@@ -108,7 +110,7 @@ for i = 1 : length(DBN_target)
    fprintf('BDeu score: %G\n',DBN_target{i}.BDeu);  
 end
 
-% grep 3 structure.
+%% grep 5 structure.
 structure = cell(1:length(DBN_target));
 for i = 1 : length(DBN_target)
     structure{i} = [ DBN_target{i}.Pa ; DBN_target{i}.name ]; % last one is target;
@@ -130,3 +132,39 @@ for i = 1 : length(myFiles)
     csv = sprintf('%s%s',myDir,myFiles(i).name);
     f_plotTable2( csv, [], 'Normalized legend' );
 end
+
+save('Analysis_Stage12_TFs_UP.mat');
+
+%%
+% iteration 30 targets, output file for cytoscape
+ntargets = length(target);
+% T_cytoscape = table('VariableNames',{'Source' 'Target' 'BDeu'});
+Source = [];
+Target = [];
+BDeu = [];
+for i = 1 : ntargets
+    tSource = target{i}.Pa;
+    nPa = length(tSource);
+    tTarget = [];
+    for j = 1 : nPa
+        tTarget = [tTarget;cellstr(target{i}.name)];
+    end             
+    tBDeu = target{i}.BDeu * ones(nPa,1);    
+    Source = [Source ; tSource];
+    Target = [Target ; tTarget];
+    BDeu = [BDeu; tBDeu];
+end
+T_cytoscape = table(Source,Target,BDeu);
+T_cytoscape_sort = sortrows(T_cytoscape,'BDeu','descend');
+
+writetable(T_cytoscape_sort,'./A_Stage12/Network_Cytoscape.csv'...
+        ,'WriteRowNames',true,'WriteVariableNames',true);
+
+
+
+
+
+
+
+
+
