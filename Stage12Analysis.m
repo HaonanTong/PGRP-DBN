@@ -136,6 +136,7 @@ end
 save('Analysis_Stage12_TFs_UP.mat');
 
 %%
+load Analysis_Stage12_TFs_UP.mat
 % iteration 30 targets, output file for cytoscape
 ntargets = length(target);
 % T_cytoscape = table('VariableNames',{'Source' 'Target' 'BDeu'});
@@ -154,7 +155,10 @@ for i = 1 : ntargets
     Target = [Target ; tTarget];
     BDeu = [BDeu; tBDeu];
 end
-T_cytoscape = table(Source,Target,BDeu);
+%%
+[TSource,~] = f_tranlate(Source,'./ORF_Translation/table_mapping.csv');
+[TTarget,~] = f_tranlate(Target,'./ORF_Translation/table_mapping.csv');
+T_cytoscape = table(Source,Target,BDeu,TSource,TTarget);
 T_cytoscape_sort = sortrows(T_cytoscape,'BDeu','descend');
 
 writetable(T_cytoscape_sort,'./A_Stage12/Network_Cytoscape.csv'...
