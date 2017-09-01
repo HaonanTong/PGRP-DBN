@@ -1,0 +1,10 @@
+       3 GO_CoreHubList12.txt
+      11 GO_CoreHubList123.txt
+      26 GO_CoreHubList1234.txt
+      15 GO_CoreHubList12345.txt
+      10 GO_CoreHubList56.txt
+       1 GO_GENE_ETHYLENE_BPD_GO_CoreHubList12.txt
+       5 GO_GENE_ETHYLENE_BPD_GO_CoreHubList123.txt
+       8 GO_GENE_ETHYLENE_BPD_GO_CoreHubList1234.txt
+       5 GO_GENE_ETHYLENE_BPD_GO_CoreHubList12345.txt
+       1 GO_GENE_ETHYLENE_BPD_GO_CoreHubList56.txt

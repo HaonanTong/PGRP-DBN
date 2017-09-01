@@ -1,0 +1,6 @@
+AT1G72360	locus:2194007	AT1G72360	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT1G72360	locus:2194007	AT1G72360	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	IMP	biochemical/chemical analysis		Publication:501742169|PMID:21398256  	TAIR	2011-05-30
+AT1G72360	locus:2194007	AT1G72360	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	TAS	none		Publication:2298|PMID:9687012   	syoo	2005-01-19
+AT1G72360	locus:2194007	AT1G72360	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT1G72360	locus:2194007	AT1G72360	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	IMP	biochemical/chemical analysis		Publication:501742169|PMID:21398256  	TAIR	2011-05-30
+AT1G72360	locus:2194007	AT1G72360	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	TAS	none		Publication:2298|PMID:9687012   	syoo	2005-01-19

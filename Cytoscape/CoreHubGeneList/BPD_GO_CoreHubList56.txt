@@ -1,0 +1,198 @@
+AT1G01380	gene:2035286	AT1G01380.1	located in	nucleus	GO:0005634	537	C	nucleus	ISM	predicted protein features		AnalysisReference:501750651	rkaundal	2012-08-31
+AT1G01380	locus:2035287	AT1G01380	functions in	DNA binding	GO:0003677	961	F	DNA or RNA binding	ISS	manually reviewed TIGR computational analysis	Pfam:PF00249	Communication:501714663	TIGR	2002-02-13
+AT1G01380	locus:2035287	AT1G01380	has	DNA binding	GO:0003677	961	F	DNA or RNA binding	IEA	none	UniProtKB-KW:KW-0238	AnalysisReference:501756970		2017-04-12
+AT1G01380	locus:2035287	AT1G01380	has	DNA binding	GO:0003677	961	F	DNA or RNA binding	IEA	none	UniProtKB-KW:KW-0371	AnalysisReference:501756970		2017-04-12
+AT1G01380	locus:2035287	AT1G01380	has	RNA polymerase II transcription factor activity, sequence-specific DNA binding	GO:0000981	35772	F	transcription factor activity	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT1G01380	locus:2035287	AT1G01380	has	sequence-specific DNA binding	GO:0043565	22416	F	DNA or RNA binding	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT1G01380	locus:2035287	AT1G01380	has	transcription factor activity, RNA polymerase II transcription factor recruiting	GO:0001135	37135	F	other molecular functions	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT1G01380	locus:2035287	AT1G01380	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	Recognized domains		Publication:1345963|PMID:11118137  	TAIR	2003-06-06
+AT1G01380	locus:2035287	AT1G01380	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	manually reviewed TIGR computational analysis	Pfam:PF00249	Communication:501714663	TIGR	2002-02-13
+AT1G01380	locus:2035287	AT1G01380	has	transcription regulatory region DNA binding	GO:0044212	33424	F	DNA or RNA binding	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT1G01380	locus:2035287	AT1G01380	has	transcription regulatory region DNA binding	GO:0044212	33424	F	nucleic acid binding	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT1G01380	locus:2035287	AT1G01380	involved in	negative regulation of trichome patterning	GO:1900033	39876	P	developmental processes	IGI	none		Publication:501712332|PMID:15063185  		2016-08-01
+AT1G01380	locus:2035287	AT1G01380	involved in	negative regulation of trichome patterning	GO:1900033	39876	P	developmental processes	IGI	none		Publication:501714802|PMID:15584952  		2016-08-01
+AT1G01380	locus:2035287	AT1G01380	involved in	negative regulation of trichome patterning	GO:1900033	39876	P	other cellular processes	IGI	none		Publication:501712332|PMID:15063185  		2016-08-01
+AT1G01380	locus:2035287	AT1G01380	involved in	negative regulation of trichome patterning	GO:1900033	39876	P	other cellular processes	IGI	none		Publication:501714802|PMID:15584952  		2016-08-01
+AT1G01380	locus:2035287	AT1G01380	involved in	regulation of transcription from RNA polymerase II promoter	GO:0006357	7463	P	other cellular processes	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT1G01380	locus:2035287	AT1G01380	involved in	regulation of transcription from RNA polymerase II promoter	GO:0006357	7463	P	other metabolic processes	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT1G01380	locus:2035287	AT1G01380	involved in	regulation of transcription from RNA polymerase II promoter	GO:0006357	7463	P	transcription,DNA-dependent	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT1G01380	locus:2035287	AT1G01380	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other cellular processes	ISS	manually reviewed TIGR computational analysis	Pfam:PF00249	Communication:501714663	TIGR	2002-02-13
+AT1G01380	locus:2035287	AT1G01380	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other metabolic processes	ISS	manually reviewed TIGR computational analysis	Pfam:PF00249	Communication:501714663	TIGR	2002-02-13
+AT1G01380	locus:2035287	AT1G01380	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	transcription,DNA-dependent	ISS	manually reviewed TIGR computational analysis	Pfam:PF00249	Communication:501714663	TIGR	2002-02-13
+AT1G01380	locus:2035287	AT1G01380	involved in	root hair cell development	GO:0080147	35039	P	developmental processes	IGI	none		Publication:501712332|PMID:15063185  		2016-08-01
+AT1G01380	locus:2035287	AT1G01380	involved in	root hair cell development	GO:0080147	35039	P	other cellular processes	IGI	none		Publication:501712332|PMID:15063185  		2016-08-01
+AT1G01380	locus:2035287	AT1G01380	involved in	transcription, DNA-templated	GO:0006351	7470	P	transcription,DNA-dependent	IEA	none	UniProtKB-KW:KW-0804	AnalysisReference:501756968		2016-08-05
+AT1G01380	locus:2035287	AT1G01380	located in	nucleus	GO:0005634	537	C	nucleus	IDA	none		Publication:501714802|PMID:15584952  		2016-08-01
+AT1G08320	gene:1009021035	AT1G08320.2	located in	nucleus	GO:0005634	537	C	nucleus	ISM	predicted protein features		AnalysisReference:501750651	rkaundal	2012-08-31
+AT1G08320	gene:1009021036	AT1G08320.3	located in	nucleus	GO:0005634	537	C	nucleus	ISM	predicted protein features		AnalysisReference:501750651	rkaundal	2012-08-31
+AT1G08320	gene:3435149	AT1G08320.1	located in	nucleus	GO:0005634	537	C	nucleus	ISM	predicted protein features		AnalysisReference:501750651	rkaundal	2012-08-31
+AT1G08320	locus:2199968	AT1G08320	functions in	DNA binding	GO:0003677	961	F	DNA or RNA binding	ISS	manually reviewed TIGR computational analysis	Pfam:PF00170	Communication:501714663	TIGR	2002-04-02
+AT1G08320	locus:2199968	AT1G08320	functions in	sequence-specific DNA binding	GO:0043565	22416	F	DNA or RNA binding	IPI	yeast one-hybrid assay	AGI_LocusCode:AT5G23020	Publication:501761574|PMID:25352272  	dkliebenst	2016-09-22
+AT1G08320	locus:2199968	AT1G08320	has	protein binding	GO:0005515	3877	F	protein binding	IPI	none	UniProtKB:E3VNM4	Publication:501719019|PMID:16731568  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	has	protein binding	GO:0005515	3877	F	protein binding	IPI	none	UniProtKB:P43273	Publication:501719019|PMID:16731568  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	has	protein binding	GO:0005515	3877	F	protein binding	IPI	none	UniProtKB:Q39140	Publication:501719019|PMID:16731568  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	has	protein binding	GO:0005515	3877	F	protein binding	IPI	none	UniProtKB:Q39162	Publication:501719019|PMID:16731568  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	has	protein binding	GO:0005515	3877	F	protein binding	IPI	none	UniProtKB:Q39163	Publication:501719019|PMID:16731568  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	has	protein binding	GO:0005515	3877	F	protein binding	IPI	none	UniProtKB:Q39234	Publication:501719019|PMID:16731568  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	has	protein binding	GO:0005515	3877	F	protein binding	IPI	none	UniProtKB:Q39237	Publication:501719019|PMID:16731568  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	has	protein binding	GO:0005515	3877	F	protein binding	IPI	none	UniProtKB:Q8LF89	Publication:501739979|PMID:20805327  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	has	protein binding	GO:0005515	3877	F	protein binding	IPI	none	UniProtKB:Q93ZE2	Publication:501719019|PMID:16731568  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	has	protein binding	GO:0005515	3877	F	protein binding	IPI	none	UniProtKB:Q96305	Publication:501739979|PMID:20805327  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	has	protein binding	GO:0005515	3877	F	protein binding	IPI	none	UniProtKB:Q9SX27	Publication:501719019|PMID:16731568  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	has	protein homodimerization activity	GO:0042803	15211	F	protein binding	IDA	none		Publication:501719019|PMID:16731568  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	Recognized domains		Publication:1547369|PMID:11906833  	TAIR	2004-02-26
+AT1G08320	locus:2199968	AT1G08320	involved in	anther development	GO:0048653	21591	P	developmental processes	IMP	none		Publication:501739979|PMID:20805327  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	involved in	hydrogen peroxide mediated signaling pathway	GO:0071588	34317	P	signal transduction	IMP	none		Publication:501771795|PMID:27717447  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0805	AnalysisReference:501756968		2017-02-16
+AT1G08320	locus:2199968	AT1G08320	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other metabolic processes	IEA	none	UniProtKB-KW:KW-0805	AnalysisReference:501756968		2017-02-16
+AT1G08320	locus:2199968	AT1G08320	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	transcription,DNA-dependent	IEA	none	UniProtKB-KW:KW-0805	AnalysisReference:501756968		2017-02-16
+AT1G08320	locus:2199968	AT1G08320	involved in	response to molecule of bacterial origin	GO:0002237	25068	P	response to abiotic or biotic stimulus	IEP	none		Publication:501771795|PMID:27717447  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	involved in	response to molecule of bacterial origin	GO:0002237	25068	P	response to abiotic or biotic stimulus	IMP	none		Publication:501771795|PMID:27717447  		2017-01-19
+AT1G08320	locus:2199968	AT1G08320	involved in	transcription, DNA-templated	GO:0006351	7470	P	transcription,DNA-dependent	IEA	none	UniProtKB-KW:KW-0804	AnalysisReference:501756968		2017-02-16
+AT1G08320	locus:2199968	AT1G08320	located in	nucleus	GO:0005634	537	C	nucleus	IDA	none		Publication:501739979|PMID:20805327  		2017-01-19
+AT1G15750	gene:2036203	AT1G15750.1	functions in	protein binding	GO:0005515	3877	F	protein binding	IPI	yeast two-hybrid assay	AGI_LocusCode:AT2G37740	Publication:501745851|PMID:22065421  	bcausier	2011-12-22
+AT1G29160	gene:2030005	AT1G29160.1	located in	nucleus	GO:0005634	537	C	nucleus	ISM	predicted protein features		AnalysisReference:501750651	rkaundal	2012-08-31
+AT1G29160	locus:2030006	AT1G29160	functions in	DNA binding	GO:0003677	961	F	DNA or RNA binding	ISS	manually reviewed TIGR computational analysis	INTERPRO:IPR003851	Communication:501714663	TIGR	2002-05-10
+AT1G29160	locus:2030006	AT1G29160	functions in	transcription regulatory region DNA binding	GO:0044212	33424	F	DNA or RNA binding	IPI	yeast one-hybrid assay	AGI_LocusCode:AT4G37650	Publication:501745632|PMID:22037706  	acgaudin	2014-06-10
+AT1G29160	locus:2030006	AT1G29160	functions in	transcription regulatory region DNA binding	GO:0044212	33424	F	nucleic acid binding	IPI	yeast one-hybrid assay	AGI_LocusCode:AT4G37650	Publication:501745632|PMID:22037706  	acgaudin	2014-06-10
+AT1G29160	locus:2030006	AT1G29160	has	metal ion binding	GO:0046872	13966	F	other binding	IEA	none	UniProtKB-KW:KW-0479	AnalysisReference:501756968		2016-08-01
+AT1G29160	locus:2030006	AT1G29160	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	Recognized domains		Publication:1345963|PMID:11118137  	TAIR	2003-06-06
+AT1G29160	locus:2030006	AT1G29160	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	Recognized domains		Publication:501682896|PMID:12475498  	TAIR	2006-04-13
+AT1G29160	locus:2030006	AT1G29160	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other cellular processes	TAS	inferred by author, from sequence similarity		Publication:1345963|PMID:11118137  	TAIR	2011-03-18
+AT1G29160	locus:2030006	AT1G29160	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other metabolic processes	TAS	inferred by author, from sequence similarity		Publication:1345963|PMID:11118137  	TAIR	2011-03-18
+AT1G29160	locus:2030006	AT1G29160	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	transcription,DNA-dependent	TAS	inferred by author, from sequence similarity		Publication:1345963|PMID:11118137  	TAIR	2011-03-18
+AT1G29160	locus:2030006	AT1G29160	involved in	seed coat development	GO:0010214	18521	P	developmental processes	IMP	Analysis of overexpression/ectopic expression phenotype		Publication:501770306|PMID:27227784  	TAIR	2016-06-09
+AT1G29160	locus:2030006	AT1G29160	involved in	transcription, DNA-templated	GO:0006351	7470	P	transcription,DNA-dependent	IEA	none	UniProtKB-KW:KW-0804	AnalysisReference:501756968		2016-08-01
+AT1G29160	locus:2030006	AT1G29160	located in	nucleus	GO:0005634	537	C	nucleus	IEA	none	UniProtKB-SubCell:SL-0191	AnalysisReference:501756971		2016-08-01
+AT1G49130	gene:1009021180	AT1G49130.2	located in	nucleus	GO:0005634	537	C	nucleus	ISM	predicted protein features		AnalysisReference:501750651	rkaundal	2012-08-31
+AT1G49130	gene:2028420	AT1G49130.1	located in	nucleus	GO:0005634	537	C	nucleus	ISM	predicted protein features		AnalysisReference:501750651	rkaundal	2012-08-31
+AT1G49130	locus:2028421	AT1G49130	functions in	zinc ion binding	GO:0008270	4661	F	other binding	ISS	manually reviewed TIGR computational analysis	INTERPRO:IPR000315	Communication:501714663	TIGR	2002-05-13
+AT1G49130	locus:2028421	AT1G49130	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	Recognized domains		Publication:1345963|PMID:11118137  	TAIR	2003-06-06
+AT1G49130	locus:2028421	AT1G49130	has	zinc ion binding	GO:0008270	4661	F	other binding	IEA	none	InterPro:IPR000315	AnalysisReference:501756966		2016-08-01
+AT1G49130	locus:2028421	AT1G49130	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other cellular processes	TAS	inferred by author, from sequence similarity		Publication:1345963|PMID:11118137  	TAIR	2011-03-18
+AT1G49130	locus:2028421	AT1G49130	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other metabolic processes	TAS	inferred by author, from sequence similarity		Publication:1345963|PMID:11118137  	TAIR	2011-03-18
+AT1G49130	locus:2028421	AT1G49130	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	transcription,DNA-dependent	TAS	inferred by author, from sequence similarity		Publication:1345963|PMID:11118137  	TAIR	2011-03-18
+AT1G49130	locus:2028421	AT1G49130	located in	nucleus	GO:0005634	537	C	nucleus	IEA	none	UniProtKB-SubCell:SL-0191	AnalysisReference:501756971		2016-08-01
+AT1G49130	locus:2028421	AT1G49130	located in	nucleus	GO:0005634	537	C	nucleus	IEA	none	UniProtKB-SubCell:SL-0191	AnalysisReference:501757241		2017-01-19
+AT1G52830	gene:2011460	AT1G52830.1	located in	nucleus	GO:0005634	537	C	nucleus	ISM	predicted protein features		AnalysisReference:501750651	rkaundal	2012-08-31
+AT1G52830	locus:2011461	AT1G52830	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	Recognized domains		Publication:1345963|PMID:11118137  	TAIR	2003-06-06
+AT1G52830	locus:2011461	AT1G52830	involved in	auxin-activated signaling pathway	GO:0009734	11415	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0927	AnalysisReference:501756968		2016-08-01
+AT1G52830	locus:2011461	AT1G52830	involved in	auxin-activated signaling pathway	GO:0009734	11415	P	signal transduction	IEA	none	UniProtKB-KW:KW-0927	AnalysisReference:501756968		2016-08-01
+AT1G52830	locus:2011461	AT1G52830	involved in	de-etiolation	GO:0009704	11062	P	developmental processes	IMP	analysis of visible trait		Publication:3958|PMID:8624510   	TAIR	2003-03-30
+AT1G52830	locus:2011461	AT1G52830	involved in	de-etiolation	GO:0009704	11062	P	response to abiotic or biotic stimulus	IMP	analysis of visible trait		Publication:3958|PMID:8624510   	TAIR	2003-03-30
+AT1G52830	locus:2011461	AT1G52830	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0805	AnalysisReference:501756968		2016-08-01
+AT1G52830	locus:2011461	AT1G52830	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other metabolic processes	IEA	none	UniProtKB-KW:KW-0805	AnalysisReference:501756968		2016-08-01
+AT1G52830	locus:2011461	AT1G52830	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	transcription,DNA-dependent	IEA	none	UniProtKB-KW:KW-0805	AnalysisReference:501756968		2016-08-01
+AT1G52830	locus:2011461	AT1G52830	involved in	response to auxin	GO:0009733	11397	P	other biological processes	IEP	Transcript levels (e.g. Northerns)		Publication:4306|PMID:7658471   	TAIR	2002-12-12
+AT1G52830	locus:2011461	AT1G52830	involved in	response to auxin	GO:0009733	11397	P	other biological processes	IMP	mutant growth experiment with supplementation of substrates		Publication:4306|PMID:7658471   	TAIR	2002-12-12
+AT1G52830	locus:2011461	AT1G52830	involved in	transcription, DNA-templated	GO:0006351	7470	P	transcription,DNA-dependent	IEA	none	UniProtKB-KW:KW-0804	AnalysisReference:501756968		2016-08-01
+AT1G52830	locus:2011461	AT1G52830	located in	nucleus	GO:0005634	537	C	nucleus	ISS	Recognized domains		Publication:4306|PMID:7658471   	TAIR	2003-02-26
+AT1G72360	gene:2194006	AT1G72360.1	located in	nucleus	GO:0005634	537	C	nucleus	ISM	predicted protein features		AnalysisReference:501750651	rkaundal	2012-08-31
+AT1G72360	gene:4010712110	AT1G72360.2	located in	nucleus	GO:0005634	537	C	nucleus	ISM	predicted protein features		AnalysisReference:501750651	rkaundal	2012-08-31
+AT1G72360	gene:4515100923	AT1G72360.3	located in	nucleus	GO:0005634	537	C	nucleus	ISM	predicted protein features		AnalysisReference:501750651	rkaundal	2012-08-31
+AT1G72360	locus:2194007	AT1G72360	functions in	DNA binding	GO:0003677	961	F	DNA or RNA binding	ISS	manually reviewed TIGR computational analysis	INTERPRO:IPR001471	Communication:501714663	TIGR	2002-07-18
+AT1G72360	locus:2194007	AT1G72360	has	DNA binding	GO:0003677	961	F	DNA or RNA binding	IEA	none	UniProtKB-KW:KW-0238	AnalysisReference:501756968		2016-08-01
+AT1G72360	locus:2194007	AT1G72360	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	IEA	none	InterPro:IPR001471	AnalysisReference:501756966		2016-08-01
+AT1G72360	locus:2194007	AT1G72360	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	Recognized domains		Publication:1345963|PMID:11118137  	TAIR	2003-06-06
+AT1G72360	locus:2194007	AT1G72360	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	manually reviewed TIGR computational analysis	INTERPRO:IPR001471	Communication:501714663	TIGR	2002-07-18
+AT1G72360	locus:2194007	AT1G72360	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	TAS	none		Publication:2298|PMID:9687012   	syoo	2005-01-19
+AT1G72360	locus:2194007	AT1G72360	involved in	cellular response to ethylene stimulus	GO:0071369	33894	P	other cellular processes	IMP	analysis of physiological response		Publication:501742169|PMID:21398256  	TAIR	2011-05-30
+AT1G72360	locus:2194007	AT1G72360	involved in	cellular response to hypoxia	GO:0071456	33992	P	other cellular processes	IEP	Transcript levels (e.g. RT-PCR)		Publication:501742169|PMID:21398256  	TAIR	2011-05-30
+AT1G72360	locus:2194007	AT1G72360	involved in	cellular response to hypoxia	GO:0071456	33992	P	response to abiotic or biotic stimulus	IEP	Transcript levels (e.g. RT-PCR)		Publication:501742169|PMID:21398256  	TAIR	2011-05-30
+AT1G72360	locus:2194007	AT1G72360	involved in	cellular response to hypoxia	GO:0071456	33992	P	response to stress	IEP	Transcript levels (e.g. RT-PCR)		Publication:501742169|PMID:21398256  	TAIR	2011-05-30
+AT1G72360	locus:2194007	AT1G72360	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT1G72360	locus:2194007	AT1G72360	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	IMP	biochemical/chemical analysis		Publication:501742169|PMID:21398256  	TAIR	2011-05-30
+AT1G72360	locus:2194007	AT1G72360	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	TAS	none		Publication:2298|PMID:9687012   	syoo	2005-01-19
+AT1G72360	locus:2194007	AT1G72360	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT1G72360	locus:2194007	AT1G72360	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	IMP	biochemical/chemical analysis		Publication:501742169|PMID:21398256  	TAIR	2011-05-30
+AT1G72360	locus:2194007	AT1G72360	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	TAS	none		Publication:2298|PMID:9687012   	syoo	2005-01-19
+AT1G72360	locus:2194007	AT1G72360	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other cellular processes	IDA	transcriptional activation assay		Publication:501740661|PMID:20840511  	TAIR	2011-05-16
+AT1G72360	locus:2194007	AT1G72360	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0805	AnalysisReference:501756968		2016-08-01
+AT1G72360	locus:2194007	AT1G72360	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other cellular processes	ISS	manually reviewed TIGR computational analysis	INTERPRO:IPR001471	Communication:501714663	TIGR	2002-10-28
+AT1G72360	locus:2194007	AT1G72360	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other metabolic processes	IDA	transcriptional activation assay		Publication:501740661|PMID:20840511  	TAIR	2011-05-16
+AT1G72360	locus:2194007	AT1G72360	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other metabolic processes	IEA	none	UniProtKB-KW:KW-0805	AnalysisReference:501756968		2016-08-01
+AT1G72360	locus:2194007	AT1G72360	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other metabolic processes	ISS	manually reviewed TIGR computational analysis	INTERPRO:IPR001471	Communication:501714663	TIGR	2002-10-28
+AT1G72360	locus:2194007	AT1G72360	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	transcription,DNA-dependent	IDA	transcriptional activation assay		Publication:501740661|PMID:20840511  	TAIR	2011-05-16
+AT1G72360	locus:2194007	AT1G72360	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	transcription,DNA-dependent	IEA	none	UniProtKB-KW:KW-0805	AnalysisReference:501756968		2016-08-01
+AT1G72360	locus:2194007	AT1G72360	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	transcription,DNA-dependent	ISS	manually reviewed TIGR computational analysis	INTERPRO:IPR001471	Communication:501714663	TIGR	2002-10-28
+AT1G72360	locus:2194007	AT1G72360	involved in	response to anoxia	GO:0034059	28892	P	response to abiotic or biotic stimulus	IGI	double mutant analysis	AGI_LocusCode:AT2G47520	Publication:501736294|PMID:20113439  	TAIR	2010-03-25
+AT1G72360	locus:2194007	AT1G72360	involved in	response to anoxia	GO:0034059	28892	P	response to stress	IGI	double mutant analysis	AGI_LocusCode:AT2G47520	Publication:501736294|PMID:20113439  	TAIR	2010-03-25
+AT1G72360	locus:2194007	AT1G72360	involved in	transcription, DNA-templated	GO:0006351	7470	P	transcription,DNA-dependent	IEA	none	UniProtKB-KW:KW-0804	AnalysisReference:501756968		2016-08-01
+AT1G72360	locus:2194007	AT1G72360	located in	intracellular	GO:0005622	402	C	other intracellular components	TAS	none		Publication:2298|PMID:9687012   		2016-01-13
+AT1G72360	locus:2194007	AT1G72360	located in	nucleus	GO:0005634	537	C	nucleus	IDA	localization of GFP/YFP fusion protein		Publication:501736294|PMID:20113439  	TAIR	2010-03-25
+AT1G72360	locus:2194007	AT1G72360	located in	nucleus	GO:0005634	537	C	nucleus	IEA	none	UniProtKB-SubCell:SL-0191	AnalysisReference:501756971		2016-08-01
+AT1G72360	locus:2194007	AT1G72360	located in	nucleus	GO:0005634	537	C	nucleus	IEA	none	UniProtKB-SubCell:SL-0191	AnalysisReference:501757241		2016-08-01
+AT1G72360	locus:2194007	AT1G72360	located in	nucleus	GO:0005634	537	C	nucleus	ISS	manually reviewed TIGR computational analysis	GO:0003700	Communication:501714663	TIGR	2002-10-28
+AT1G80490	gene:3690978	AT1G80490.1	functions in	protein binding	GO:0005515	3877	F	protein binding	IPI	yeast two-hybrid assay	AGI_LocusCode:AT1G08320	Publication:501745851|PMID:22065421  	bcausier	2011-12-22
+AT2G22430	gene:2041282	AT2G22430.1	located in	nucleus	GO:0005634	537	C	nucleus	ISM	predicted protein features		AnalysisReference:501750651	rkaundal	2012-08-31
+AT2G22430	locus:2041283	AT2G22430	functions in	DNA binding	GO:0003677	961	F	DNA or RNA binding	IDA	in vitro binding assay		Publication:501681575|PMID:12065416  	TAIR	2006-10-04
+AT2G22430	locus:2041283	AT2G22430	functions in	protein binding	GO:0005515	3877	F	protein binding	IPI	yeast two-hybrid assay	AGI_LocusCode:AT4G26080	Publication:501681575|PMID:12065416  	TAIR	2008-08-22
+AT2G22430	locus:2041283	AT2G22430	functions in	sequence-specific DNA binding	GO:0043565	22416	F	DNA or RNA binding	IDA	electrophoretic mobility shift (EMSA)		Publication:501680370|PMID:11247607  	TAIR	2008-07-16
+AT2G22430	locus:2041283	AT2G22430	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	Recognized domains		Publication:1345963|PMID:11118137  	TAIR	2003-06-06
+AT2G22430	locus:2041283	AT2G22430	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	TAS	none		Publication:501681575|PMID:12065416  	jsheen	2005-10-28
+AT2G22430	locus:2041283	AT2G22430	involved in	abscisic acid-activated signaling pathway	GO:0009738	11414	P	other cellular processes	TAS	none		Publication:501681575|PMID:12065416  	jsheen	2005-10-28
+AT2G22430	locus:2041283	AT2G22430	involved in	abscisic acid-activated signaling pathway	GO:0009738	11414	P	signal transduction	TAS	none		Publication:501681575|PMID:12065416  	jsheen	2005-10-28
+AT2G22430	locus:2041283	AT2G22430	involved in	negative regulation of abscisic acid-activated signaling pathway	GO:0009788	11756	P	other cellular processes	IMP	analysis of physiological response		Publication:501681575|PMID:12065416  	TAIR	2006-05-10
+AT2G22430	locus:2041283	AT2G22430	involved in	negative regulation of abscisic acid-activated signaling pathway	GO:0009788	11756	P	signal transduction	IMP	analysis of physiological response		Publication:501681575|PMID:12065416  	TAIR	2006-05-10
+AT2G22430	locus:2041283	AT2G22430	involved in	positive regulation of transcription, DNA-templated	GO:0045893	12513	P	other cellular processes	IDA	transcriptional activation assay		Publication:501717432|PMID:16055682  	TAIR	2011-06-03
+AT2G22430	locus:2041283	AT2G22430	involved in	positive regulation of transcription, DNA-templated	GO:0045893	12513	P	other metabolic processes	IDA	transcriptional activation assay		Publication:501717432|PMID:16055682  	TAIR	2011-06-03
+AT2G22430	locus:2041283	AT2G22430	involved in	positive regulation of transcription, DNA-templated	GO:0045893	12513	P	transcription,DNA-dependent	IDA	transcriptional activation assay		Publication:501717432|PMID:16055682  	TAIR	2011-06-03
+AT2G22430	locus:2041283	AT2G22430	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other cellular processes	ISS	manually reviewed TIGR computational analysis	Pfam:PF00046	Communication:501714663	TIGR	2003-08-21
+AT2G22430	locus:2041283	AT2G22430	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other metabolic processes	ISS	manually reviewed TIGR computational analysis	Pfam:PF00046	Communication:501714663	TIGR	2003-08-21
+AT2G22430	locus:2041283	AT2G22430	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	transcription,DNA-dependent	ISS	manually reviewed TIGR computational analysis	Pfam:PF00046	Communication:501714663	TIGR	2003-08-21
+AT2G22430	locus:2041283	AT2G22430	involved in	response to water deprivation	GO:0009414	5647	P	response to abiotic or biotic stimulus	IEP	Correlation of expression with a physiological assay		Publication:1078|PMID:10527431  	TAIR	2008-07-15
+AT2G22430	locus:2041283	AT2G22430	involved in	response to water deprivation	GO:0009414	5647	P	response to stress	IEP	Correlation of expression with a physiological assay		Publication:1078|PMID:10527431  	TAIR	2008-07-15
+AT2G22430	locus:2041283	AT2G22430	involved in	transcription, DNA-templated	GO:0006351	7470	P	transcription,DNA-dependent	IEA	none	UniProtKB-KW:KW-0804	AnalysisReference:501756968		2016-08-01
+AT2G22430	locus:2041283	AT2G22430	located in	nucleus	GO:0005634	537	C	nucleus	IDA	localization of GFP/YFP fusion protein		Publication:501746143|PMID:22172674  	TAIR	2012-02-14
+AT2G22430	locus:2041283	AT2G22430	located in	nucleus	GO:0005634	537	C	nucleus	ISS	manually reviewed TIGR computational analysis	Pfam:PF00046	Communication:501714663	TIGR	2003-08-21
+AT2G22770	gene:2062234	AT2G22770.1	located in	nucleus	GO:0005634	537	C	nucleus	ISM	predicted protein features		AnalysisReference:501750651	rkaundal	2012-08-31
+AT2G22770	locus:2062235	AT2G22770	functions in	DNA binding	GO:0003677	961	F	DNA or RNA binding	ISS	manually reviewed TIGR computational analysis	Pfam:PF00010	Communication:501714663	TIGR	2003-09-01
+AT2G22770	locus:2062235	AT2G22770	has	DNA binding	GO:0003677	961	F	DNA or RNA binding	IEA	none	UniProtKB-KW:KW-0238	AnalysisReference:501756968		2016-08-01
+AT2G22770	locus:2062235	AT2G22770	has	protein dimerization activity	GO:0046983	15253	F	protein binding	IEA	none	InterPro:IPR011598	AnalysisReference:501756966		2016-08-01
+AT2G22770	locus:2062235	AT2G22770	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	Recognized domains		Publication:1345963|PMID:11118137  	TAIR	2003-06-06
+AT2G22770	locus:2062235	AT2G22770	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	Recognized domains		Publication:501705886|PMID:12679534  	TAIR	2004-03-01
+AT2G22770	locus:2062235	AT2G22770	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	manually reviewed TIGR computational analysis	Pfam:PF00010	Communication:501714663	TIGR	2003-09-01
+AT2G22770	locus:2062235	AT2G22770	involved in	endoplasmic reticulum organization	GO:0007029	4766	P	cell organization and biogenesis	IMP	analysis of visible trait		Publication:501752687|PMID:23155454  	TAIR	2013-02-06
+AT2G22770	locus:2062235	AT2G22770	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other cellular processes	IMP	expression of another gene in a mutant background of this gene		Publication:501752687|PMID:23155454  	TAIR	2013-02-06
+AT2G22770	locus:2062235	AT2G22770	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other cellular processes	TAS	inferred by author, from sequence similarity		Publication:1345963|PMID:11118137  	TAIR	2011-03-18
+AT2G22770	locus:2062235	AT2G22770	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other metabolic processes	IMP	expression of another gene in a mutant background of this gene		Publication:501752687|PMID:23155454  	TAIR	2013-02-06
+AT2G22770	locus:2062235	AT2G22770	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other metabolic processes	TAS	inferred by author, from sequence similarity		Publication:1345963|PMID:11118137  	TAIR	2011-03-18
+AT2G22770	locus:2062235	AT2G22770	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	transcription,DNA-dependent	IMP	expression of another gene in a mutant background of this gene		Publication:501752687|PMID:23155454  	TAIR	2013-02-06
+AT2G22770	locus:2062235	AT2G22770	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	transcription,DNA-dependent	TAS	inferred by author, from sequence similarity		Publication:1345963|PMID:11118137  	TAIR	2011-03-18
+AT2G22770	locus:2062235	AT2G22770	involved in	transcription, DNA-templated	GO:0006351	7470	P	transcription,DNA-dependent	IEA	none	UniProtKB-KW:KW-0804	AnalysisReference:501756968		2016-08-01
+AT2G22770	locus:2062235	AT2G22770	located in	nucleus	GO:0005634	537	C	nucleus	IEA	none	UniProtKB-SubCell:SL-0191	AnalysisReference:501756971		2016-08-01
+AT2G37740	gene:3697547	AT2G37740.1	located in	nucleus	GO:0005634	537	C	nucleus	ISM	predicted protein features		AnalysisReference:501750651	rkaundal	2012-08-31
+AT2G37740	locus:2040726	AT2G37740	functions in	nucleic acid binding	GO:0003676	3376	F	nucleic acid binding	ISS	manually reviewed TIGR computational analysis	InterPro:IPR000822	Communication:501714663	TIGR	2003-09-08
+AT2G37740	locus:2040726	AT2G37740	functions in	zinc ion binding	GO:0008270	4661	F	other binding	ISS	manually reviewed TIGR computational analysis	InterPro:IPR000822	Communication:501714663	TIGR	2003-09-08
+AT2G37740	locus:2040726	AT2G37740	has	metal ion binding	GO:0046872	13966	F	other binding	IEA	none	UniProtKB-KW:KW-0479	AnalysisReference:501756968		2017-02-16
+AT2G37740	locus:2040726	AT2G37740	has	nucleic acid binding	GO:0003676	3376	F	nucleic acid binding	IEA	none	InterPro:IPR013087	AnalysisReference:501756966		2017-03-17
+AT2G37740	locus:2040726	AT2G37740	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	Recognized domains		Publication:1345963|PMID:11118137  	TAIR	2003-06-06
+AT2G37740	locus:2040726	AT2G37740	involved in	multicellular organism development	GO:0007275	5590	P	developmental processes	IEA	none	UniProtKB-KW:KW-0217	AnalysisReference:501756968		2017-02-16
+AT2G37740	locus:2040726	AT2G37740	involved in	regulation of growth	GO:0040008	10887	P	other biological processes	IEA	none	UniProtKB-KW:KW-0341	AnalysisReference:501756968		2017-02-16
+AT2G37740	locus:2040726	AT2G37740	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other cellular processes	TAS	inferred by author, from sequence similarity		Publication:1345963|PMID:11118137  	TAIR	2011-03-18
+AT2G37740	locus:2040726	AT2G37740	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other metabolic processes	TAS	inferred by author, from sequence similarity		Publication:1345963|PMID:11118137  	TAIR	2011-03-18
+AT2G37740	locus:2040726	AT2G37740	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	transcription,DNA-dependent	TAS	inferred by author, from sequence similarity		Publication:1345963|PMID:11118137  	TAIR	2011-03-18
+AT2G37740	locus:2040726	AT2G37740	involved in	transcription, DNA-templated	GO:0006351	7470	P	transcription,DNA-dependent	IEA	none	UniProtKB-KW:KW-0804	AnalysisReference:501756968		2017-02-16
+AT2G37740	locus:2040726	AT2G37740	located in	nucleus	GO:0005634	537	C	nucleus	IBA	none	PANTHER:PTN000722701	Communication:501741973		2016-03-23
+AT2G47520	locus:2061956	AT2G47520	involved in	response to anoxia	GO:0034059	28892	P	response to abiotic or biotic stimulus	IGI	double mutant analysis	AGI_LocusCode:AT1G72360	Publication:501736294|PMID:20113439  	TAIR	2010-03-25
+AT2G47520	locus:2061956	AT2G47520	involved in	response to anoxia	GO:0034059	28892	P	response to stress	IGI	double mutant analysis	AGI_LocusCode:AT1G72360	Publication:501736294|PMID:20113439  	TAIR	2010-03-25
+AT3G02940	gene:2075386	AT3G02940.1	located in	nucleus	GO:0005634	537	C	nucleus	ISM	predicted protein features		AnalysisReference:501750651	rkaundal	2012-08-31
+AT3G02940	locus:2075387	AT3G02940	functions in	DNA binding	GO:0003677	961	F	DNA or RNA binding	ISS	manually reviewed TIGR computational analysis	Pfam:PF00249	Communication:501714663	TIGR	2002-02-11
+AT3G02940	locus:2075387	AT3G02940	has	DNA binding	GO:0003677	961	F	DNA or RNA binding	IEA	none	InterPro:IPR009057	AnalysisReference:501756966		2016-08-01
+AT3G02940	locus:2075387	AT3G02940	has	RNA polymerase II transcription factor activity, sequence-specific DNA binding	GO:0000981	35772	F	transcription factor activity	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT3G02940	locus:2075387	AT3G02940	has	sequence-specific DNA binding	GO:0043565	22416	F	DNA or RNA binding	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT3G02940	locus:2075387	AT3G02940	has	transcription factor activity, RNA polymerase II transcription factor recruiting	GO:0001135	37135	F	other molecular functions	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT3G02940	locus:2075387	AT3G02940	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	Recognized domains		Publication:1345963|PMID:11118137  	TAIR	2003-06-06
+AT3G02940	locus:2075387	AT3G02940	has	transcription factor activity, sequence-specific DNA binding	GO:0003700	4449	F	transcription factor activity	ISS	manually reviewed TIGR computational analysis	Pfam:PF00249	Communication:501714663	TIGR	2002-02-11
+AT3G02940	locus:2075387	AT3G02940	has	transcription regulatory region DNA binding	GO:0044212	33424	F	DNA or RNA binding	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT3G02940	locus:2075387	AT3G02940	has	transcription regulatory region DNA binding	GO:0044212	33424	F	nucleic acid binding	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT3G02940	locus:2075387	AT3G02940	involved in	cell differentiation	GO:0030154	9398	P	other cellular processes	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT3G02940	locus:2075387	AT3G02940	involved in	regulation of transcription from RNA polymerase II promoter	GO:0006357	7463	P	other cellular processes	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT3G02940	locus:2075387	AT3G02940	involved in	regulation of transcription from RNA polymerase II promoter	GO:0006357	7463	P	other metabolic processes	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT3G02940	locus:2075387	AT3G02940	involved in	regulation of transcription from RNA polymerase II promoter	GO:0006357	7463	P	transcription,DNA-dependent	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT3G02940	locus:2075387	AT3G02940	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other cellular processes	ISS	manually reviewed TIGR computational analysis	Pfam:PF00249	Communication:501714663	TIGR	2002-02-11
+AT3G02940	locus:2075387	AT3G02940	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	other metabolic processes	ISS	manually reviewed TIGR computational analysis	Pfam:PF00249	Communication:501714663	TIGR	2002-02-11
+AT3G02940	locus:2075387	AT3G02940	involved in	regulation of transcription, DNA-templated	GO:0006355	7461	P	transcription,DNA-dependent	ISS	manually reviewed TIGR computational analysis	Pfam:PF00249	Communication:501714663	TIGR	2002-02-11
+AT3G02940	locus:2075387	AT3G02940	involved in	response to salicylic acid	GO:0009751	11421	P	other biological processes	IEP	Transcript levels (e.g. Northerns)		Publication:501718564|PMID:16463103  	TAIR	2006-03-27
+AT3G02940	locus:2075387	AT3G02940	located in	nucleus	GO:0005634	537	C	nucleus	IBA	none	PANTHER:PTN000067606	Communication:501741973		2016-05-24
+AT3G16830	gene:2086769	AT3G16830.1	functions in	protein binding	GO:0005515	3877	F	protein binding	IPI	yeast two-hybrid assay	AGI_LocusCode:AT2G37740	Publication:501745851|PMID:22065421  	bcausier	2011-12-22

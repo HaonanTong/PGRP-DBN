@@ -1,0 +1,2 @@
+AT3G15210	locus:2087065	AT3G15210	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT3G15210	locus:2087065	AT3G15210	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
